@@ -1,12 +1,14 @@
 <img align="right" alt="GIF" height="350" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/source.gif" />
 
-### Hi there👋, I'm Galih a Junior Frontend Web Programmer also a Student
+### Hi there👋, I'm Galih 
+I am a Junior Frontend Web Programmer also a Student at Telkom Vocational High School
 
+### About Me
 - 🌱 I’m currently learning about Frontend Web Development
 - 📫 Reach me at : galihprihananto29@gmail.com
 - 💪 Hard Working, Creative, Stay Focus
 
-### Connect with me:
+### Connect with me
 
 <a href="https://www.linkedin.com/in/galih-prihananto">
   <img align="left" alt="Galih's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
