@@ -45,7 +45,7 @@ I am a Junior Frontend Web Programmer also a Student at Telkom Vocational High S
 
 ---
 
-  <summary>:zap: Github Stats</summary>
+  ### :zap: Github Stats
 
   ![galihproo's github stats](https://github-readme-stats.vercel.app/api?username=galihproo&show_icons=true&theme=radical)
 
