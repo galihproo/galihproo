@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" height="350" src="https://user-images.githubusercontent.com/56005648/88882070-52216a80-d25b-11ea-88d4-dbc2862d642a.gif" />
+<img align="right" alt="GIF" height="350" src="https://giphy.com/embed/LmNwrBhejkK9EFP504" />
 
 ### Hi there👋, I'm Galih a Junior Frontend Web Programmer also a Student
 
