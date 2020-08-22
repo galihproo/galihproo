@@ -39,11 +39,9 @@ I am a Junior Frontend Web Programmer also a Student at Telkom Vocational High S
 
 
 <br />
-<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galihproo&layout=compact)](https://github.com/galihproo/github-readme-stats)
 
----
 
   ### :zap: Github Stats
 
