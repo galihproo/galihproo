@@ -1,8 +1,8 @@
 ### Hi there👋, I'm Galih 
-a Junior Programmer also a Student at Telkom Vocational High School
+a Frontend Developer
 
 ### About Me
-- 🌱 I’m currently a Frontend Developer
+- 🌱 I’m currently learning React JS
 - 📫 Reach me at : galihprihananto29@gmail.com
 - 💪 Hard Working, Creative, Stay Focus
 
